@@ -1,0 +1,25 @@
+{
+	"name": "utils",
+	"version": "1.0.0",
+	"description": "util code collections",
+	"main": "index.js",
+	"scripts": {
+		"test": "mocha"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jerryyxu/utils.git"
+	},
+	"keywords": [
+		"utils"
+	],
+	"author": "jerryyxu",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/jerryyxu/utils/issues"
+	},
+	"homepage": "https://github.com/jerryyxu/utils#readme",
+	"devDependencies": {
+		"mocha": "^7.1.2"
+	}
+}
